@@ -1,0 +1,10 @@
+[
+  {
+    "package": "colorist",
+    "oncran": true
+  },
+  {
+    "package": "smoothr",
+    "oncran": true
+  }
+]
